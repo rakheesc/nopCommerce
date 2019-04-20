@@ -102,3 +102,21 @@
 2019-04-18 21:21:00,316 [TestNG-tests-1] INFO nopCommerce - ******************* Login Successful******************* 
 2019-04-18 21:21:00,318 [TestNG-tests-1] INFO nopCommerce - ******************* Completed TC_LoginTest_001******************* 
 2019-04-18 21:21:00,318 [TestNG-tests-1] DEBUG nopCommerce - ******************* completed TC_LoginTest_001******************* 
+2019-04-20 10:33:03,512 [TestNG-tests-1] INFO nopCommerce - ******************* Started TC_LoginTest_001******************* 
+2019-04-20 10:33:03,515 [TestNG-tests-1] DEBUG nopCommerce - ******************* Started TC_LoginTest_001******************* 
+2019-04-20 10:33:05,877 [TestNG-tests-1] INFO nopCommerce - ******************* Providing login info********************* 
+2019-04-20 10:33:11,421 [TestNG-tests-1] INFO nopCommerce - ******************* Login Successful******************* 
+2019-04-20 10:33:11,424 [TestNG-tests-1] INFO nopCommerce - ******************* Completed TC_LoginTest_001******************* 
+2019-04-20 10:33:11,425 [TestNG-tests-1] DEBUG nopCommerce - ******************* completed TC_LoginTest_001******************* 
+2019-04-20 10:33:59,842 [TestNG-tests-1] INFO nopCommerce - ******************* Started TC_LoginTest_001******************* 
+2019-04-20 10:33:59,845 [TestNG-tests-1] DEBUG nopCommerce - ******************* Started TC_LoginTest_001******************* 
+2019-04-20 10:34:02,173 [TestNG-tests-1] INFO nopCommerce - ******************* Providing login info********************* 
+2019-04-20 10:34:07,725 [TestNG-tests-1] INFO nopCommerce - ******************* Login Successful******************* 
+2019-04-20 10:34:07,727 [TestNG-tests-1] INFO nopCommerce - ******************* Completed TC_LoginTest_001******************* 
+2019-04-20 10:34:07,727 [TestNG-tests-1] DEBUG nopCommerce - ******************* completed TC_LoginTest_001******************* 
+2019-04-20 19:16:46,790 [TestNG-tests-1] INFO nopCommerce - ******************* Started TC_LoginTest_001******************* 
+2019-04-20 19:16:46,792 [TestNG-tests-1] DEBUG nopCommerce - ******************* Started TC_LoginTest_001******************* 
+2019-04-20 19:17:19,805 [TestNG-tests-1] INFO nopCommerce - ******************* Providing login info********************* 
+2019-04-20 19:17:35,221 [TestNG-tests-1] INFO nopCommerce - ******************* Login Successful******************* 
+2019-04-20 19:17:35,223 [TestNG-tests-1] INFO nopCommerce - ******************* Completed TC_LoginTest_001******************* 
+2019-04-20 19:17:35,223 [TestNG-tests-1] DEBUG nopCommerce - ******************* completed TC_LoginTest_001******************* 

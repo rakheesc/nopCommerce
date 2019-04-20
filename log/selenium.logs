@@ -103,3 +103,21 @@
 2019-04-18 21:21:00,316 - nopCommerce -INFO - ******************* Login Successful******************* 
 2019-04-18 21:21:00,318 - nopCommerce -INFO - ******************* Completed TC_LoginTest_001******************* 
 2019-04-18 21:21:00,318 - nopCommerce -DEBUG - ******************* completed TC_LoginTest_001******************* 
+2019-04-20 10:33:03,512 - nopCommerce -INFO - ******************* Started TC_LoginTest_001******************* 
+2019-04-20 10:33:03,515 - nopCommerce -DEBUG - ******************* Started TC_LoginTest_001******************* 
+2019-04-20 10:33:05,877 - nopCommerce -INFO - ******************* Providing login info********************* 
+2019-04-20 10:33:11,421 - nopCommerce -INFO - ******************* Login Successful******************* 
+2019-04-20 10:33:11,424 - nopCommerce -INFO - ******************* Completed TC_LoginTest_001******************* 
+2019-04-20 10:33:11,425 - nopCommerce -DEBUG - ******************* completed TC_LoginTest_001******************* 
+2019-04-20 10:33:59,842 - nopCommerce -INFO - ******************* Started TC_LoginTest_001******************* 
+2019-04-20 10:33:59,845 - nopCommerce -DEBUG - ******************* Started TC_LoginTest_001******************* 
+2019-04-20 10:34:02,173 - nopCommerce -INFO - ******************* Providing login info********************* 
+2019-04-20 10:34:07,725 - nopCommerce -INFO - ******************* Login Successful******************* 
+2019-04-20 10:34:07,727 - nopCommerce -INFO - ******************* Completed TC_LoginTest_001******************* 
+2019-04-20 10:34:07,727 - nopCommerce -DEBUG - ******************* completed TC_LoginTest_001******************* 
+2019-04-20 19:16:46,790 - nopCommerce -INFO - ******************* Started TC_LoginTest_001******************* 
+2019-04-20 19:16:46,792 - nopCommerce -DEBUG - ******************* Started TC_LoginTest_001******************* 
+2019-04-20 19:17:19,805 - nopCommerce -INFO - ******************* Providing login info********************* 
+2019-04-20 19:17:35,221 - nopCommerce -INFO - ******************* Login Successful******************* 
+2019-04-20 19:17:35,223 - nopCommerce -INFO - ******************* Completed TC_LoginTest_001******************* 
+2019-04-20 19:17:35,223 - nopCommerce -DEBUG - ******************* completed TC_LoginTest_001******************* 
