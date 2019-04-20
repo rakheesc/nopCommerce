@@ -120,3 +120,9 @@
 2019-04-20 19:17:35,221 [TestNG-tests-1] INFO nopCommerce - ******************* Login Successful******************* 
 2019-04-20 19:17:35,223 [TestNG-tests-1] INFO nopCommerce - ******************* Completed TC_LoginTest_001******************* 
 2019-04-20 19:17:35,223 [TestNG-tests-1] DEBUG nopCommerce - ******************* completed TC_LoginTest_001******************* 
+2019-04-20 19:36:18,508 [TestNG-tests-1] INFO nopCommerce - ******************* Started TC_LoginTest_001******************* 
+2019-04-20 19:36:18,511 [TestNG-tests-1] DEBUG nopCommerce - ******************* Started TC_LoginTest_001******************* 
+2019-04-20 19:36:20,993 [TestNG-tests-1] INFO nopCommerce - ******************* Providing login info********************* 
+2019-04-20 19:36:26,636 [TestNG-tests-1] INFO nopCommerce - ******************* Login Successful******************* 
+2019-04-20 19:36:26,638 [TestNG-tests-1] INFO nopCommerce - ******************* Completed TC_LoginTest_001******************* 
+2019-04-20 19:36:26,638 [TestNG-tests-1] DEBUG nopCommerce - ******************* completed TC_LoginTest_001******************* 

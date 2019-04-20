@@ -1,148 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="TestSuite" time="48.436" tests="1" errors="0" skipped="0" failures="0">
+<testsuite name="TestSuite" time="8.132" tests="1" errors="0" skipped="0" failures="0">
   <properties>
-    <property name="java.vendor" value="Oracle Corporation"/>
-    <property name="JOB_NAME" value="nopCommerce_mavenproject"/>
-    <property name="sun.java.launcher" value="SUN_STANDARD"/>
-    <property name="NUMBER_OF_PROCESSORS" value="8"/>
-    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
-    <property name="JENKINS_HOME" value="C:\Users\Sijimon\.jenkins"/>
-    <property name="HUDSON_SERVER_COOKIE" value="5565b090b5678260"/>
-    <property name="POM_ARTIFACTID" value="nopCommerce_V001"/>
-    <property name="os.name" value="Windows 10"/>
-    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_172\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_172\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_172\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_172\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_172\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_172\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_172\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_172\jre\classes"/>
-    <property name="EXECUTOR_NUMBER" value="1"/>
-    <property name="sun.desktop" value="windows"/>
-    <property name="PATHEXT" value=".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC"/>
-    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
-    <property name="POM_DISPLAYNAME" value="nopCommerce_V001"/>
-    <property name="NODE_LABELS" value="master"/>
-    <property name="TEMP" value="C:\Users\Sijimon\AppData\Local\Temp"/>
-    <property name="java.runtime.version" value="1.8.0_172-b11"/>
-    <property name="user.name" value="Sijimon"/>
-    <property name="guice.disable.misplaced.annotation.check" value="true"/>
-    <property name="CommonProgramW6432" value="C:\Program Files\Common Files"/>
-    <property name="ProgramFiles" value="C:\Program Files"/>
-    <property name="PROMPT" value="$P$G"/>
-    <property name="user.language" value="en"/>
-    <property name="JOB_BASE_NAME" value="nopCommerce_mavenproject"/>
-    <property name="RUN_CHANGES_DISPLAY_URL" value="http://localhost:8080/job/nopCommerce_mavenproject/2/display/redirect?page=changes"/>
-    <property name="BUILD_DISPLAY_NAME" value="#2"/>
-    <property name="OneDrive" value="C:\Users\Sijimon\OneDrive"/>
-    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_172\jre\bin"/>
-    <property name="LOCALAPPDATA" value="C:\Users\Sijimon\AppData\Local"/>
-    <property name="java.version" value="1.8.0_172"/>
-    <property name="PROCESSOR_LEVEL" value="6"/>
-    <property name="user.timezone" value="America/New_York"/>
-    <property name="USERNAME" value="Sijimon"/>
-    <property name="sun.arch.data.model" value="64"/>
-    <property name="NODE_NAME" value="master"/>
-    <property name="OneDriveConsumer" value="C:\Users\Sijimon\OneDrive"/>
-    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_172\jre\lib\endorsed"/>
-    <property name="BUILD_ID" value="2"/>
-    <property name="sun.cpu.isalist" value="amd64"/>
-    <property name="sun.jnu.encoding" value="Cp1252"/>
-    <property name="file.encoding.pkg" value="sun.io"/>
-    <property name="file.separator" value="\"/>
-    <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="HOMEDRIVE" value="C:"/>
-    <property name="java.class.version" value="52.0"/>
-    <property name="=::" value="::\"/>
-    <property name="org.slf4j.simpleLogger.defaultLogLevel" value="info"/>
-    <property name="user.country" value="US"/>
-    <property name="ALLUSERSPROFILE" value="C:\ProgramData"/>
-    <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_172\jre"/>
-    <property name="java.vm.info" value="mixed mode"/>
-    <property name="os.version" value="10.0"/>
-    <property name="SPRING_HOME" value="D:\Spring\spring-2.0.5.RELEASE"/>
-    <property name="=ExitCode" value="00000001"/>
-    <property name="RUN_DISPLAY_URL" value="http://localhost:8080/job/nopCommerce_mavenproject/2/display/redirect"/>
-    <property name="POM_VERSION" value="0.0.1-SNAPSHOT"/>
-    <property name="TMP" value="C:\Users\Sijimon\AppData\Local\Temp"/>
-    <property name="path.separator" value=";"/>
-    <property name="java.vm.version" value="25.172-b11"/>
-    <property name="GROOVY_HOME" value="D:\groovy-2.5.2"/>
-    <property name="user.variant" value=""/>
-    <property name="JOB_DISPLAY_URL" value="http://localhost:8080/job/nopCommerce_mavenproject/display/redirect"/>
-    <property name="CommonProgramFiles(x86)" value="C:\Program Files (x86)\Common Files"/>
-    <property name="USERDOMAIN_ROAMINGPROFILE" value="GAMEDESKTOP"/>
-    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
-    <property name="GRADLE_HOME" value="D:\gradle-4.10.1"/>
-    <property name="FP_NO_HOST_CHECK" value="NO"/>
-    <property name="JAVA_HOME" value="C:\Program Files\Java\jdk1.8.0_172"/>
-    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
-    <property name="CommonProgramFiles" value="C:\Program Files\Common Files"/>
-    <property name="ComSpec" value="C:\WINDOWS\system32\cmd.exe"/>
-    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
-    <property name="HOMEPATH" value="\Users\Sijimon"/>
-    <property name="POM_PACKAGING" value="jar"/>
-    <property name="user.script" value=""/>
-    <property name="COMPUTERNAME" value="GAMEDESKTOP"/>
-    <property name="POM_GROUPID" value="nopCommerce_V001"/>
-    <property name="VBOX_MSI_INSTALL_PATH" value="C:\Program Files\Oracle\VirtualBox\"/>
-    <property name="user.home" value="C:\Users\Sijimon"/>
-    <property name="PUBLIC" value="C:\Users\Public"/>
-    <property name="BUILD_TAG" value="jenkins-nopCommerce_mavenproject-2"/>
-    <property name="JENKINS_SERVER_COOKIE" value="5565b090b5678260"/>
-    <property name="HUDSON_URL" value="http://localhost:8080/"/>
-    <property name="ProgramData" value="C:\ProgramData"/>
-    <property name="java.specification.vendor" value="Oracle Corporation"/>
-    <property name="USERPROFILE" value="C:\Users\Sijimon"/>
-    <property name="CLASSPATH" value=""/>
-    <property name="java.vendor.url" value="http://java.oracle.com/"/>
-    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_172\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;D:\apache-maven-3.3.9/bin;C:\Program Files\Java\jdk1.8.0_172/bin;C:\Program Files\Java\jdk1.8.0_172/bin;C:\oraclexe\app\oracle\product\11.2.0\server\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;D:\oraclexe\app\oracle\product\11.2.0\server\bin;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Java\jdk1.8.0_172\bin;D:\Git\cmd;D:\RakheeWork;%M2_HOME%\bin;C:\Program Files\nodejs\;C:\Program Files\dotnet\;C:\ProgramData\chocolatey\bin;C:\Program Files\Java\jdk1.8.0_172\bin;C:\Android\android-sdk\tools;C:\Android\android-sdk\platform-tools;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Microsoft VS Code\bin;%MVN_Home%\bin;D:\Git\bin;D:\RailsInstaller\Git\cmd;D:\RailsInstaller\Ruby2.2.0\bin;D:\Ruby21-x64\bin;C:\Ruby21-x64\bin;C:\Ruby22-x64\bin;D:\phantomjs-2.1.1-windows\bin;C:\Users\Sijimon\AppData\Local\atom\bin;C:\Users\Sijimon\AppData\Local\Microsoft\WindowsApps;C:\Users\Sijimon\AppData\Local\Programs\Fiddler;SPRING_HOME/bin;C:\Users\Sijimon\AppData\Roaming\npm;C:\Program Files\MongoDB\Server\3.6\bin;C:\Program Files\Microsoft VS Code\bin;C:\Users\Sijimon\AppData\Local\Microsoft\WindowsApps;D:\groovy-2.5.2\bin;D:\gradle-4.10.1\bin;D:\Spring\spring-2.0.5.RELEASE\bin;;."/>
-    <property name="java.vm.vendor" value="Oracle Corporation"/>
-    <property name="APPDATA" value="C:\Users\Sijimon\AppData\Roaming"/>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
-    <property name="maven.home" value="D:\apache-maven-3.3.9"/>
-    <property name="java.class.path" value="C:\Users\Sijimon\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven33-agent-1.12.jar;D:\apache-maven-3.3.9\boot\plexus-classworlds-2.5.2.jar;D:\apache-maven-3.3.9/conf/logging"/>
-    <property name="sun.java.command" value="jenkins.maven3.agent.Maven33Main D:\apache-maven-3.3.9 C:\Users\Sijimon\.jenkins\war\WEB-INF\lib\remoting-3.29.jar C:\Users\Sijimon\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven33-interceptor-1.12.jar C:\Users\Sijimon\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.12.jar 62879"/>
-    <property name="Path" value="C:\Program Files\Java\jdk1.8.0_172/bin;C:\oraclexe\app\oracle\product\11.2.0\server\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;D:\oraclexe\app\oracle\product\11.2.0\server\bin;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Java\jdk1.8.0_172\bin;D:\Git\cmd;D:\RakheeWork;%M2_HOME%\bin;C:\Program Files\nodejs\;C:\Program Files\dotnet\;C:\ProgramData\chocolatey\bin;C:\Program Files\Java\jdk1.8.0_172\bin;C:\Android\android-sdk\tools;C:\Android\android-sdk\platform-tools;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Microsoft VS Code\bin;%MVN_Home%\bin;D:\Git\bin;D:\RailsInstaller\Git\cmd;D:\RailsInstaller\Ruby2.2.0\bin;D:\Ruby21-x64\bin;C:\Ruby21-x64\bin;C:\Ruby22-x64\bin;D:\phantomjs-2.1.1-windows\bin;C:\Users\Sijimon\AppData\Local\atom\bin;C:\Users\Sijimon\AppData\Local\Microsoft\WindowsApps;C:\Users\Sijimon\AppData\Local\Programs\Fiddler;SPRING_HOME/bin;C:\Users\Sijimon\AppData\Roaming\npm;C:\Program Files\MongoDB\Server\3.6\bin;C:\Program Files\Microsoft VS Code\bin;C:\Users\Sijimon\AppData\Local\Microsoft\WindowsApps;D:\groovy-2.5.2\bin;D:\gradle-4.10.1\bin;D:\Spring\spring-2.0.5.RELEASE\bin;"/>
-    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
-    <property name="PROCESSOR_ARCHITECTURE" value="AMD64"/>
-    <property name="PATH+JDK" value="C:\Program Files\Java\jdk1.8.0_172/bin"/>
-    <property name="PROCESSOR_IDENTIFIER" value="Intel64 Family 6 Model 60 Stepping 3, GenuineIntel"/>
-    <property name="SESSIONNAME" value="Console"/>
-    <property name="java.vm.specification.version" value="1.8"/>
-    <property name="sun.os.patch.level" value=""/>
-    <property name="sun.cpu.endian" value="little"/>
-    <property name="M2_HOME" value="D:\apache-maven-3.3.9"/>
-    <property name="java.io.tmpdir" value="C:\Users\Sijimon\AppData\Local\Temp\"/>
-    <property name="OS" value="Windows_NT"/>
-    <property name="HUDSON_HOME" value="C:\Users\Sijimon\.jenkins"/>
-    <property name="PATH+MAVEN" value="D:\apache-maven-3.3.9/bin"/>
-    <property name="ProgramFiles(x86)" value="C:\Program Files (x86)"/>
-    <property name="BUILD_URL" value="http://localhost:8080/job/nopCommerce_mavenproject/2/"/>
-    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
-    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
-    <property name="os.arch" value="amd64"/>
-    <property name="SystemRoot" value="C:\WINDOWS"/>
-    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_172\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
-    <property name="user.dir" value="C:\Users\Sijimon\eclipse-workspace-Rakhee\nopCommerce"/>
-    <property name="JOB_URL" value="http://localhost:8080/job/nopCommerce_mavenproject/"/>
-    <property name="LOGONSERVER" value="\\GAMEDESKTOP"/>
-    <property name="USERDOMAIN" value="GAMEDESKTOP"/>
-    <property name="line.separator" value="&#10;"/>
-    <property name="MAVEN_HOME" value="D:\apache-maven-3.3.9"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_172\jre\bin"/>
+    <property name="java.vm.version" value="25.172-b11"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="maven.multiModuleProjectDirectory" value="C:\Users\Sijimon\eclipse-workspace-Rakhee\nopCommerce"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="path.separator" value=";"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
     <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
-    <property name="BUILD_NUMBER" value="2"/>
-    <property name="ANDROID_HOME" value="C:\Android\android-sdk"/>
-    <property name="JENKINS_URL" value="http://localhost:8080/"/>
-    <property name="PROCESSOR_REVISION" value="3c03"/>
-    <property name="ProgramW6432" value="C:\Program Files"/>
-    <property name="windir" value="C:\WINDOWS"/>
-    <property name="=C:" value="C:\Users\Sijimon\Documents\Jenkins"/>
-    <property name="ChocolateyLastPathUpdate" value="Sun May 20 15:48:58 2018"/>
-    <property name="file.encoding" value="Cp1252"/>
-    <property name="SystemDrive" value="C:"/>
-    <property name="maven3.interceptor" value="C:\Users\Sijimon\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven33-interceptor-1.12.jar"/>
-    <property name="WORKSPACE" value="C:\Users\Sijimon\.jenkins\workspace\nopCommerce_mavenproject"/>
-    <property name="ChocolateyInstall" value="C:\ProgramData\chocolatey"/>
-    <property name="maven3.interceptor.common" value="C:\Users\Sijimon\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.12.jar"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="US"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="C:\Users\Sijimon\eclipse-workspace-Rakhee\nopCommerce"/>
+    <property name="java.runtime.version" value="1.8.0_172-b11"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_172\jre\lib\endorsed"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="C:\Users\Sijimon\AppData\Local\Temp\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="classworlds.conf" value="C:\Users\Sijimon\eclipse-workspace-Rakhee\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf2650486845382654265.tmp"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_172\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Program Files/Java/jre1.8.0_171/bin/server;C:/Program Files/Java/jre1.8.0_171/bin;C:/Program Files/Java/jre1.8.0_171/lib/amd64;C:\oraclexe\app\oracle\product\11.2.0\server\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;D:\oraclexe\app\oracle\product\11.2.0\server\bin;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Java\jdk1.8.0_172\bin;D:\Git\cmd;D:\RakheeWork;%M2_HOME%\bin;C:\Program Files\nodejs\;C:\Program Files\dotnet\;C:\ProgramData\chocolatey\bin;C:\Program Files\Java\jdk1.8.0_172\bin;C:\Android\android-sdk\tools;C:\Android\android-sdk\platform-tools;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Microsoft VS Code\bin;%MVN_Home%\bin;D:\Git\bin;D:\RailsInstaller\Git\cmd;D:\RailsInstaller\Ruby2.2.0\bin;D:\Ruby21-x64\bin;C:\Ruby21-x64\bin;C:\Ruby22-x64\bin;D:\phantomjs-2.1.1-windows\bin;C:\Users\Sijimon\AppData\Local\atom\bin;C:\Users\Sijimon\AppData\Local\Microsoft\WindowsApps;C:\Users\Sijimon\AppData\Local\Programs\Fiddler;SPRING_HOME/bin;C:\Users\Sijimon\AppData\Roaming\npm;C:\Program Files\MongoDB\Server\3.6\bin;C:\Program Files\Microsoft VS Code\bin;C:\Users\Sijimon\AppData\Local\Microsoft\WindowsApps;D:\groovy-2.5.2\bin;D:\gradle-4.10.1\bin;D:\Spring\spring-2.0.5.RELEASE\bin;;D:\eclipse-committers-2019-03-R-win32-x86_64\eclipse;;."/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="10.0"/>
+    <property name="user.home" value="C:\Users\Sijimon"/>
+    <property name="user.timezone" value="America/New_York"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
     <property name="java.specification.version" value="1.8"/>
-    <property name="PSModulePath" value="C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules\"/>
-    <property name="DriverData" value="C:\Windows\System32\Drivers\DriverData"/>
-    <property name="MVN_Home" value="C:\Users\Sijimon\Documents\RakheeJavaProjects\apache-maven-3.6.0-bin\apache-maven-3.6.0"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="user.name" value="Sijimon"/>
+    <property name="java.class.path" value="D:\eclipse-committers-2019-03-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_1.11.0.20190220-2117\jars\plexus-classworlds-2.5.2.jar"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_172\jre"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -B test"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.language" value="en"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="1.8.0_172"/>
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_172\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_172\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_172\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_172\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_172\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_172\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_172\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_172\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_172\jre\classes"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="C:\Users\Sijimon\eclipse-workspace-Rakhee\nopCommerce\EMBEDDED"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase name="loginTest" classname="com.nopCommerce.TestCases.TC_LoginTest_001" time="48.436"/>
+  <testcase name="loginTest" classname="com.nopCommerce.TestCases.TC_LoginTest_001" time="8.132"/>
 </testsuite>
