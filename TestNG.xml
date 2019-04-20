@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="nopCommerceSuite" parallel="tests" thread-count="3">
+<listeners>
+<listener class-name="com.nopCommerce.utilities.Reporting"></listener>
+</listeners>
+	<test name="chrometest">
+	   <parameter name="browser" value="chrome"></parameter>
+		<classes>
+			 <class name="com.nopCommerce.TestCases.TC_LoginTest_001"> </class>
+			<!--  <class name="com.nopCommerce.TestCases.TC_LoginDDT_002"></class>-->
+	<!--  	<class name="com.nopCommerce.TestCases.TC_AddCustomerTest_003"></class>-->	
+		</classes>
+	</test>
+<!--  	 	<test name="ietest">
+	   <parameter name="browser" value="ie"></parameter>
+		<classes>
+			<class name="com.nopCommerce.TestCases.TC_Log
+		</classes>
+	</test>
+	<test name="firefoxtest">
+	   <parameter name="browser" value="firefox"></parameter>
+		<classes>
+			<class name="com.nopCommerce.TestCases.TC_LoginTest_001"></class>
+		</classes>
+	</test>-->
+</suite>
