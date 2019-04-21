@@ -46,8 +46,8 @@ public class BaseClass {
 		logger.setLevel(Level.DEBUG);
 		if(br.equalsIgnoreCase("chrome"))
 		{
-			//System.setProperty("webdriver.chrome.driver",readConfig.getChromePath() );
-			 System.setProperty("webdriver.chrome.driver","C:\\tmp\\chromedriver.exe");
+			System.setProperty("webdriver.chrome.driver",readConfig.getChromePath() );
+			// System.setProperty("webdriver.chrome.driver","C:\\tmp\\chromedriver.exe");
 			driver=new ChromeDriver();
 		}
 		else if(br.equalsIgnoreCase("ie"))
