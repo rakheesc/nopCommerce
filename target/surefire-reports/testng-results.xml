@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="nopCommerceSuite" duration-ms="11166" started-at="2019-04-20T23:36:15Z" finished-at="2019-04-20T23:36:26Z">
+  <suite name="nopCommerceSuite" duration-ms="12559" started-at="2019-04-21T17:40:54Z" finished-at="2019-04-21T17:41:06Z">
     <groups>
     </groups>
-    <test name="chrometest" duration-ms="11166" started-at="2019-04-20T23:36:15Z" finished-at="2019-04-20T23:36:26Z">
+    <test name="chrometest" duration-ms="12559" started-at="2019-04-21T17:40:54Z" finished-at="2019-04-21T17:41:06Z">
       <class name="com.nopCommerce.TestCases.TC_LoginTest_001">
-        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.nopCommerce.TestCases.TC_LoginTest_001@6fadae5d]" name="setUp" is-config="true" duration-ms="2794" started-at="2019-04-20T23:36:15Z" finished-at="2019-04-20T23:36:18Z">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.nopCommerce.TestCases.TC_LoginTest_001@6fadae5d]" name="setUp" is-config="true" duration-ms="3200" started-at="2019-04-21T17:40:54Z" finished-at="2019-04-21T17:40:57Z">
           <params>
             <param index="0">
               <value>
@@ -18,11 +18,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.nopCommerce.TestCases.TC_LoginTest_001@6fadae5d]" name="loginTest" duration-ms="8132" started-at="2019-04-20T23:36:18Z" finished-at="2019-04-20T23:36:26Z">
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.nopCommerce.TestCases.TC_LoginTest_001@6fadae5d]" name="loginTest" duration-ms="8914" started-at="2019-04-21T17:40:57Z" finished-at="2019-04-21T17:41:06Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.nopCommerce.TestCases.TC_LoginTest_001@6fadae5d]" name="tearDown" is-config="true" duration-ms="81" started-at="2019-04-20T23:36:26Z" finished-at="2019-04-20T23:36:26Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.nopCommerce.TestCases.TC_LoginTest_001@6fadae5d]" name="tearDown" is-config="true" duration-ms="132" started-at="2019-04-21T17:41:06Z" finished-at="2019-04-21T17:41:06Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
