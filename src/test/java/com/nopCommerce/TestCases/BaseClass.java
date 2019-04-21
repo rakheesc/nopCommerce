@@ -47,6 +47,7 @@ public class BaseClass {
 		if(br.equalsIgnoreCase("chrome"))
 		{
 			System.setProperty("webdriver.chrome.driver",readConfig.getChromePath() );
+			// System.setProperty("webdriver.chrome.driver","C:\\Downloads\\chromedriver.exe");
 			driver=new ChromeDriver();
 		}
 		else if(br.equalsIgnoreCase("ie"))
